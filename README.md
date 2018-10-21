@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository thingy
+I'm trying to surround myself with people that will make me a better person.
